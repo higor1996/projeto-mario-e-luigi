@@ -9,4 +9,8 @@
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaScript-logo"/>
 
 <img src="https://github.com/higor1996/projeto-mario-e-luigi/blob/master/img/Desktop.png?raw=true" alt="imagem do projeto no desktop"/>
+<br>
 
+<h2>Nesse projeto foi aplicado Responsividade</h2>
+
+<img src="https://github.com/higor1996/projeto-mario-e-luigi/blob/master/img/Mobile.png?raw=true" alt="imagem do projeto no mobile"/>
