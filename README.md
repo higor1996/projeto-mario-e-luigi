@@ -13,4 +13,4 @@
 
 <h2>Nesse projeto foi aplicado Responsividade</h2>
 
-<img src="https://github.com/higor1996/projeto-mario-e-luigi/blob/master/img/Mobile.png?raw=true" alt="imagem do projeto no mobile"/>
+<img src="https://github.com/higor1996/projeto-mario-e-luigi/blob/master/img/Mobile.png?raw=true" alt="imagem do projeto no mobile" height=500px/>
